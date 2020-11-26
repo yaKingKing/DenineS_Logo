@@ -8,4 +8,6 @@ Fire:
  last accessed 10.11.2020 16:37
 
 Enso:
-* custom creation
+* "Enso" 
+ by Yanik Söltzer
+ is marked with [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
